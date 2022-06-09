@@ -1,0 +1,23 @@
+{
+  "changelogDate": "20220609114338",
+  "clientRootFolder": "gaf",
+  "databaseType": "sql",
+  "dto": "no",
+  "fields": [
+    {
+      "fieldName": "name",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "weight",
+      "fieldType": "Float"
+    }
+  ],
+  "jpaMetamodelFiltering": false,
+  "microserviceName": "gaf",
+  "name": "Cheval",
+  "pagination": "no",
+  "readOnly": false,
+  "relationships": [],
+  "service": "serviceClass"
+}

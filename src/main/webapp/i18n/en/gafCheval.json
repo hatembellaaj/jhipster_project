@@ -1,0 +1,25 @@
+{
+  "gafApp": {
+    "gafCheval": {
+      "home": {
+        "title": "Chevals",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Cheval",
+        "createOrEditLabel": "Create or edit a Cheval",
+        "notFound": "No Chevals found"
+      },
+      "created": "A new Cheval is created with identifier {{ param }}",
+      "updated": "A Cheval is updated with identifier {{ param }}",
+      "deleted": "A Cheval is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Cheval {{ id }}?"
+      },
+      "detail": {
+        "title": "Cheval"
+      },
+      "id": "ID",
+      "name": "Name",
+      "weight": "Weight"
+    }
+  }
+}
